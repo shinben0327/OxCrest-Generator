@@ -1,0 +1,3 @@
+IDEAS
+- automatically calculate the member loads in a pin jointed structure based on its photo (OpenCV, frame-2d)
+- 
