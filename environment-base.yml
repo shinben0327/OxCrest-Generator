@@ -1,0 +1,4 @@
+name: camhack-base
+channels:
+  - defaults
+prefix: /Users/jinrhee/opt/anaconda3/envs/camhack-base
