@@ -20,7 +20,7 @@ Further efforts were made using [OpenCV](https://opencv.org/) in order to automa
 
 ## Usage
 
-Run the Jupyter Notebook ([OxCrest.ipynb](https://github.com/shinben0327/OxCrest-Generator/blob/main/OxCrest.ipynb)) following its instructions. 
+Run the Jupyter Notebook [OxCrest.ipynb](https://github.com/shinben0327/OxCrest-Generator/blob/main/OxCrest.ipynb) following its instructions. 
 
 Make sure to login using a [Hugging Face token](https://huggingface.co/docs/hub/security-tokens) for model access, which can be obtained for free with a Hugging Face account. 
 
@@ -32,3 +32,4 @@ prompt = "a photo of an oxford college crest that includes a shape of a cat"
 ## Examples
 
 Using the prompt above, example results have been generated. 
+![Best Results](https://github.com/shinben0327/OxCrest-Generator/blob/main/examples/best_results.png?raw=true)
