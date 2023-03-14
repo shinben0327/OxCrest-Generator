@@ -32,4 +32,5 @@ prompt = "a photo of an oxford college crest that includes a shape of a cat"
 ## Examples
 
 Using the prompt above, example results have been generated. 
+
 ![Best Results](https://github.com/shinben0327/OxCrest-Generator/blob/main/examples/best_results.png?raw=true)
